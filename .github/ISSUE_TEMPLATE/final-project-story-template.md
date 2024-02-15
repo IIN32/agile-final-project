@@ -13,8 +13,8 @@ assignees: ''
  **So that** [benefit]  
    
  ### Details and Assumptions
- * [document what you know]
-   
+ * [documents what you know]
+  
  ### Acceptance Criteria  
    
  ```gherkin
